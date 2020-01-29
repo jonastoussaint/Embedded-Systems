@@ -10,9 +10,6 @@ accordingly)
 
 Due Date: 1/23/2020
 '''
-lb = 0
-g = 0
-kg = 0
 
 oz = int(input("Enter the number of ounces: "))
 print("The number you entered is ", oz)
